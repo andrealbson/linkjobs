@@ -66,19 +66,19 @@
                                             <div class="row">
                                                 <div class="col-lg-12 no-pdd">
                                                     <div class="sn-field">
-                                                        <input type="text" name="name" placeholder="Nome Completo">
+                                                        <input type="text" name="nome" placeholder="Nome Completo">
                                                         <i class="la la-user"></i>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-12 no-pdd">
                                                     <div class="sn-field">
-                                                        <input type="text" name="date" placeholder="Data de Nascimento">
+                                                        <input type="text" name="data_nascimento" placeholder="Data de Nascimento">
                                                         <i class="la la-globe"></i>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-12 no-pdd">
                                                     <div class="sn-field">
-                                                        <input type="text" name="Start date" placeholder="Quando Iniciou na Area">
+                                                        <input type="text" name="inicio_trabalho" placeholder="Quando Iniciou na Area">
                                                         <i class="la la-globe"></i>
                                                     </div>
                                                 </div>
@@ -90,13 +90,13 @@
                                                 </div>
                                                 <div class="col-lg-12 no-pdd">
                                                     <div class="sn-field">
-                                                        <input type="text" name="Salary" placeholder="Salário">
+                                                        <input type="text" name="salario" placeholder="Salário">
                                                         <i class="la la-globe"></i>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-12 no-pdd">
                                                     <div class="sn-field">
-                                                        <input type="password" name="password" placeholder="Senha">
+                                                        <input type="password" name="senha" placeholder="Senha">
                                                         <i class="la la-lock"></i>
                                                     </div>
                                                 </div>
